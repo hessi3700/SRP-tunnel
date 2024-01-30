@@ -13,4 +13,4 @@ ssh ranged port tunnel
 
 
 
-استفاده های بعدی : *`bash srpt.sh`*
+استفاده های بعدی : *`wget https://github.com/hessi3700/SRP-tunnel/releases/download/single/srpt-i.sh && bash srpt-i.sh OR bash srpt-i.sh`*
