@@ -8,9 +8,9 @@ ssh ranged port tunnel
 
 
 
-اولین استفاده : ```wget https://github.com/hessi3700/SRP-tunnel/releases/download/single/srpt.sh && bash srpt.sh```
+اولین استفاده : *`wget https://github.com/hessi3700/SRP-tunnel/releases/download/single/srpt.sh && bash srpt.sh`*
 
 
 
 
-استفاده های بعدی : ```bash srpt.s```
+استفاده های بعدی : *`bash srpt.sh`*
